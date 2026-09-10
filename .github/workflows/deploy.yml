@@ -35,7 +35,7 @@ jobs:
       - name: Upload build
         uses: actions/upload-pages-artifact@v4
         with:
-          path: company-docsclassic/build
+          path: Aparna/build
  
   deploy:
     name: Deploy to GitHub Pages
