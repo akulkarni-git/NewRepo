@@ -25,11 +25,11 @@ jobs:
           node-version: 20
  
       - name: Install dependencies
-        working-directory: company-docsclassic
+        working-directory: Aparna
         run: npm ci
  
       - name: Build website
-        working-directory: company-docsclassic
+        working-directory: Aparna
         run: npm run build
  
       - name: Upload build
