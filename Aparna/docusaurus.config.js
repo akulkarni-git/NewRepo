@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Aparna's Site',
+  title: 'Aparna DocSite',
   tagline: 'Dinosaurs are scary',
   favicon: 'img/favicon.ico',
 
